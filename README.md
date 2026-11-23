@@ -2,9 +2,9 @@
 
 **Data Scientist & AI Engineer** at Kariyer.net · **Founder** of Skymot Games · **Co-founder** of [SocioLoc](https://socioloc.app) · Computer Engineering @ Koç University
 
-- 🤖 At Kariyer.net I build data and AI products with the Head of Data and the BI team. One of them is **Kaira AI**, a company-wide natural-language-to-SQL assistant used by the BI, data platform and sales teams.
-- 🎮 At **Skymot Games** I make mobile games end to end, from game design and economy to monetization, analytics and launch: *Grocer Match*, a 1,000-level triple-match puzzle game, and *Smash Tour*, a 3D physics game.
-- 📍 **SocioLoc** is a social discovery app that connects people through live location, shared interests and nearby events, with **5K+ downloads**.
+-  At Kariyer.net I build data and AI products with the Head of Data and the BI team. One of them is **Kaira AI**, a company-wide natural-language-to-SQL assistant used by the BI, data platform and sales teams.
+-  At **Skymot Games** I make mobile games end to end, from game design and economy to monetization, analytics and launch: *Grocer Match*, a 1,000-level triple-match puzzle game, and *Smash Tour*, a 3D physics game.
+-  **SocioLoc** is a social discovery app that connects people through live location, shared interests and nearby events, with **5K+ downloads**.
 
 #### Featured projects
 | Project | What it is |
